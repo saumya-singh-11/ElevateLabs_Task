@@ -28,4 +28,5 @@ This dataset originally contained 300+ rows with various data quality issues and
 
 # No-show
 - Standardized to only "Yes" or "No"
+- Removed rows with missing or invalid No-show values
 
